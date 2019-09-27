@@ -7,8 +7,8 @@ public class Main {
         System.out.println(longerBBQ.description);
         longerBBQ.weightG = 107;
         System.out.println(longerBBQ.weightG + "  г");
-        longerBBQ.calorieContentKkl = 236;
-        System.out.println(longerBBQ.calorieContentKkl + " Ккал");
+        longerBBQ.calorieContentKcal = 236;
+        System.out.println(longerBBQ.calorieContentKcal + " Ккал");
         longerBBQ.proteinsG = 9.7f;
         System.out.println(longerBBQ.proteinsG + " г");
         longerBBQ.fatsG = 7.1f;
@@ -25,8 +25,8 @@ public class Main {
         System.out.println(cheeseburger.description);
         cheeseburger.weightG = 167;
         System.out.println(cheeseburger.weightG + "  г");
-        cheeseburger.calorieContentKkl = 237;
-        System.out.println(cheeseburger.calorieContentKkl + " Ккал");
+        cheeseburger.calorieContentKcal = 237;
+        System.out.println(cheeseburger.calorieContentKcal + " Ккал");
         cheeseburger.proteinsG = 13.2f;
         System.out.println(cheeseburger.proteinsG + " г");
         cheeseburger.fatsG = 8.6f;

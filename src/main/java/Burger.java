@@ -2,7 +2,7 @@ public class Burger {
     int id;
     String name;
     int weightG;
-    float calorieContentKkl;
+    float calorieContentKcal;
     float proteinsG;
     float fatsG;
     float carbohydrates;
