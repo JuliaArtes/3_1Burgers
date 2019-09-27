@@ -1,9 +1,9 @@
 public class Burger {
     int id;
     String name;
-    int weightG;
+    int weightGm;
     float calorieContentKcal;
-    float proteinsG;
+    float proteinsGm;
     float fatsG;
     float carbohydrates;
     String description;
